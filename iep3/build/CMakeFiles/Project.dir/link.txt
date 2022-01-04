@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic "CMakeFiles/Project.dir/src/item13&14.cpp.o"  -o Project 
