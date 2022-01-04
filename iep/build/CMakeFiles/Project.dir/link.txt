@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Project.dir/src/Vehicul.cpp.o CMakeFiles/Project.dir/src/Vehicul1.cpp.o CMakeFiles/Project.dir/src/Vehicul3.cpp.o CMakeFiles/Project.dir/src/Masina.cpp.o CMakeFiles/Project.dir/src/main.cpp.o  -o Project 

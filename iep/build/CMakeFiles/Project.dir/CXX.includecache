@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maxim/iep/src/Masina.cpp
+iostream
+-
+Vehicul3.cpp
+/home/maxim/iep/src/Vehicul3.cpp
+
+/home/maxim/iep/src/Vehicul.cpp
+iostream
+-
+
+/home/maxim/iep/src/Vehicul1.cpp
+iostream
+-
+
+/home/maxim/iep/src/Vehicul3.cpp
+iostream
+-
+
+/home/maxim/iep/src/main.cpp
+iostream
+-
+Masina.cpp
+/home/maxim/iep/src/Masina.cpp
+
