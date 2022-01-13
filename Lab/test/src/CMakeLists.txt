@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.2)
+project(test)
+add_subdirectory( Pen )
+add_subdirectory( Paper )
+add_executable( main main.cpp )
+target_link_libraries(main PRIVATE Pen Paper)

@@ -1,0 +1,9 @@
+C:/Users/Stefi/Documents/Anul IV/IEP/Lab/test/out/CMakeFiles/rebuild_cache.dir
+C:/Users/Stefi/Documents/Anul IV/IEP/Lab/test/out/CMakeFiles/edit_cache.dir
+C:/Users/Stefi/Documents/Anul IV/IEP/Lab/test/out/CMakeFiles/main.dir
+C:/Users/Stefi/Documents/Anul IV/IEP/Lab/test/out/Pen/CMakeFiles/rebuild_cache.dir
+C:/Users/Stefi/Documents/Anul IV/IEP/Lab/test/out/Pen/CMakeFiles/edit_cache.dir
+C:/Users/Stefi/Documents/Anul IV/IEP/Lab/test/out/Pen/CMakeFiles/Pen.dir
+C:/Users/Stefi/Documents/Anul IV/IEP/Lab/test/out/Paper/CMakeFiles/rebuild_cache.dir
+C:/Users/Stefi/Documents/Anul IV/IEP/Lab/test/out/Paper/CMakeFiles/edit_cache.dir
+C:/Users/Stefi/Documents/Anul IV/IEP/Lab/test/out/Paper/CMakeFiles/Paper.dir

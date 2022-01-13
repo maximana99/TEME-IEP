@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libPen.a CMakeFiles/Pen.dir/Pen.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libPen.a
